@@ -10,6 +10,7 @@
 </p>
 
 > ReactJs study conducted by the Rocketseat platform, free of charge.
+> Course: https://rocketseat.com.br
 
 ### 🏠 [Homepage](https://github.com/jafjuliana/Rocketseat-Starter-ReactJs)
 
